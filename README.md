@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanishka Verma</h1>
-<h3 align="center">A final-year Electronics & Communication Engineering student in India | DevOps & Open Source Enthusiast | Committed to learning and supporting others.</h3>
+<h3 align="center">A final-year Engineering student in India | DevOps & Open Source Enthusiast | Committed to learning and supporting others.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanishkaverma054" alt="kanishkaverma054" /></a> </p>
-
-- 📝 I regularly write articles on [Hashnode](https://kanishk-verma.hashnode.dev/)
+- 📝 I regularly write articles on [https://kanishk-verma.hashnode.dev/](https://kanishk-verma.hashnode.dev/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -13,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/kanishk_twt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanishk_twt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kanishka-verma-2435a6205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishka-verma-2435a6205" height="30" width="40" /></a>
-<a href="https://hashnode.com/kanishk-verma.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="kanishk-verma.hashnode.dev" height="30" width="40" /></a>
+<a href="https://hashnode.com/@verma316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@verma316" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kanishkav774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanishkav774" height="30" width="40" /></a>
 <a href="/https://kanishk-verma.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://kanishk-verma.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
@@ -24,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkaverma054&show_icons=true&locale=en&layout=compact" alt="kanishkaverma054" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishkaverma054&show_icons=true&locale=en" alt="kanishkaverma054" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkaverma054&" alt="kanishkaverma054" /></p>
