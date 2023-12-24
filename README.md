@@ -5,6 +5,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Computer Networking: What Is It and Why Does It Matter?](https://kanishk-verma.hashnode.dev/introduction-to-computer-networking-what-is-it-and-why-does-it-matter)
+- [DevOps Essentials: Must-Have Tools for Starting Out](https://kanishk-verma.hashnode.dev/devops-essentials-must-have-tools-for-starting-out)
+- [Setting Up WSL and Systemd Support for Windows Users](https://kanishk-verma.hashnode.dev/setting-up-wsl-and-systemd-support-for-windows-users)
+- [My KubeCon | CloudNativeCon&lpar;Virtual&rpar;  Detroit-2022 Experience](https://kanishk-verma.hashnode.dev/my-kubecon-cloudnativeconvirtual-detroit-2022-experience)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
