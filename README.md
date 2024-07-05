@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanishka Verma</h1>
-<h3 align="center">A final-year Engineering student in India | DevOps & Open Source Enthusiast | Committed to learning and supporting others.</h3>
+<h3 align="center">DevOps & Open Source Enthusiast | Committed to learning and supporting others.</h3>
 
 - 📝 I regularly write articles on [https://kanishk-verma.hashnode.dev/](https://kanishk-verma.hashnode.dev/)
 
