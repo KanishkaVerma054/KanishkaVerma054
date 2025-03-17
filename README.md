@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://kanishk-verma.hashnode.dev/](https://kanishk-verma.hashnode.dev/)
 
-### Blogs posts
+### 📕Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Introduction to Computer Networking: What Is It and Why Does It Matter?](https://kanishk-verma.hashnode.dev/introduction-to-computer-networking-what-is-it-and-why-does-it-matter)
 - [DevOps Essentials: Must-Have Tools for Starting Out](https://kanishk-verma.hashnode.dev/devops-essentials-must-have-tools-for-starting-out)
