@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanishka Verma</h1>
-<h3 align="center">DevOps & Open Source Enthusiast | Committed to learning and supporting others.</h3>
+<h3 align="center">Learning and Building scalable Fullstack Web applications | Committed to learning and supporting others.</h3>
 
 - 📝 I regularly write articles on [https://kanishk-verma.hashnode.dev/](https://kanishk-verma.hashnode.dev/)
 
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishkaverma054&show_icons=true&locale=en" alt="kanishkaverma054" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkaverma054&" alt="kanishkaverma054" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkaverma054&" alt="kanishkaverma054" /></p> -->
